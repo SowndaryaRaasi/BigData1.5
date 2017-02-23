@@ -1,0 +1,18 @@
+                                                       BigData
+                                                 Assignment 1.5
+
+1.Hadoop in layman's term:
+        Hadoop is a framework that is used in storing very very large amounts of data(either structured or unstructured) and using that data in making efficient 
+        decisions in future.
+        It uses HDFS (for storing), MAP REDUCE(for processing).
+
+
+2. Components of Hadoop framework
+            1.HDFS(Hadoop File System):  Used to store very large amount of data.Just like a database.
+            2.Map Reduce:  Used for processing such huge data and produce results that help in decision-making.
+
+
+3.Reasons to learn Big data technologies
+        1. Data keeps increasing day by day . Such huge data has to be stored and processed in a proper and a quick way.
+            This technology helps in properly maintaining that data.
+        2. Demand for Big Data skills as well as the pay is extremely high.
